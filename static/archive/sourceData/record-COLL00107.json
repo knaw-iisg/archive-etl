@@ -1,0 +1,387 @@
+{
+  "header": {
+    "identifier": "oai:socialhistoryservices.org:10622/COLL00107",
+    "datestamp": "2020-06-22T00:00:00Z",
+    "setSpec": {
+      "0": "iish",
+      "1": "iish.archieven"
+    },
+    "fromCache": true
+  },
+  "metadata": {
+    "marc:record": {
+      "marc:leader": {
+        "$text": "00000npcaa2200000 u 4500"
+      },
+      "marc:controlfield": [
+        {
+          "$text": "10622/COLL00107",
+          "@tag": "001"
+        },
+        {
+          "$text": "NL-AmISG",
+          "@tag": "003"
+        },
+        {
+          "$text": "220912i19202007nl                  ger d",
+          "@tag": "008"
+        }
+      ],
+      "marc:datafield": [
+        {
+          "marc:subfield": [
+            {
+              "$text": "AmISG",
+              "@code": "a"
+            },
+            {
+              "$text": "eng",
+              "@code": "b"
+            },
+            {
+              "$text": "AmISG",
+              "@code": "c"
+            },
+            {
+              "$text": "International Standard for Archival Description - General",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "040"
+        },
+        {
+          "marc:subfield": {
+            "$text": "ger",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "041"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Althans, Bernd Ewald,",
+              "@code": "a"
+            },
+            {
+              "$text": "creator.",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "100"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Bernd Ewald Althans Book and Audiovisual Collection",
+              "@code": "a"
+            },
+            {
+              "$text": "1920-2007",
+              "@code": "f"
+            },
+            {
+              "$text": "1970-2004",
+              "@code": "g"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "0",
+          "@tag": "245"
+        },
+        {
+          "marc:subfield": {
+            "$text": "1.1 Meters",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "300"
+        },
+        {
+          "marc:subfield": {
+            "$text": "The material is sorted by subject and material type.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "351"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Restricted\n\n 2 videocassettes and 17 audiocassettes can only be accessed after permission of B.E. Althans.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "506"
+        },
+        {
+          "marc:subfield": {
+            "$text": "The Althans collection consists of audiovisual material and books. The books are on Germany and German politics after the Second World War and that War. On the United States and its politics. And then some novels and books on all kinds of topics ranging from the death penalty to the illuminati. The audiovisual material is mostly on the Second World War and the denial of atrocities.",
+            "@code": "a"
+          },
+          "@ind1": "3",
+          "@ind2": "",
+          "@tag": "520"
+        },
+        {
+          "marc:subfield": {
+            "$text": "The Collection consists of 78 books, 61 DVDs, 52 videocassettes and 43 audiocassettes. 2 videocassettes and 17 audiocassettes can only be accessed after permission of B.E. Althans.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "520"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Bernd Ewald Althans Book and Audiovisual Collection, inventory number ..., International Institute of Social History, Amsterdam.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "524"
+        },
+        {
+          "marc:subfield": {
+            "$text": "See also the  Bernd Ewald Althans Papers  at the IISH.",
+            "@code": "d"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "544"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Born in Bremen, Germany 1966; in his youth shortly member of Aktion Sühnezeichen but still a gymnasium pupil in Hanover he switched to the extreme right; participated in paramilitary training of the Wehrsport but broke away with some friends to found the Nationale Jugend Deutschlands; expelled from school and the parental home he joined the Deutsche Freiheitsbewegung der Bismarck-Deutsche of the former SS-major Otto Remer; in 1983 he became member of the neo-Nazist organization Aktion National Sozialisten (ANS) headed by Michael Kühnen; after his rupture with Kühnen at the end of the 1980s he became friends with Ernst Zündel, a 'revisionist' publisher who denied the Holocaust; organized the conference 'Wahrheit macht Frei' 1990; broke with neo-Nazism in 1992, partly because of his aversion to the attacks/assaults on refugees and other foreigners in Germany, partly because of his bisexuality; main figure in Winfried Bohnengel's documentary movie 'Beruf Neonazi'; sentenced to a three-and-a-half years term in 1995 for incitement and his denial of the Holocaust in earlier years; left Germany after his release. See also the  Website of Althans .",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "545"
+        },
+        {
+          "marc:subfield": {
+            "$text": "German.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Processing Information: 2016.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "583"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Fernau, Joachim.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Irving, David.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Fascism and Nazism/ Fascist and Nazist movements and parties/Anti-fascist movements",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Racism/Anti-racist movements",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Germany",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "651"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "United States",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "651"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Books",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "655"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Moving images",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "655"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Sound documents",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "655"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "International Institute of Social History",
+              "@code": "a"
+            },
+            {
+              "$text": "International Institute of Social History",
+              "@code": "b"
+            },
+            {
+              "$text": "COLL00107",
+              "@code": "j"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "852"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "text/xml",
+              "@code": "q"
+            },
+            {
+              "$text": "https://hdl.handle.net/10622/COLL00107?locatt=view:ead",
+              "@code": "u"
+            }
+          ],
+          "@ind1": "4",
+          "@ind2": "",
+          "@tag": "856"
+        },
+        {
+          "marc:subfield": {
+            "$text": "10622/COLL00107",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "902"
+        }
+      ],
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:marc": "http://www.loc.gov/MARC21/slim",
+      "@xsi:schemaLocation": "http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    }
+  },
+  "_identifier": [
+    "oai:socialhistoryservices.org:10622",
+    "COLL00107"
+  ],
+  "_archive": {
+    "termType": "NamedNode",
+    "value": "https://iisg.amsterdam/id/collection/COLL00107"
+  }
+}

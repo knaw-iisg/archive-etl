@@ -1,0 +1,264 @@
+{
+    "header": {
+        "identifier": "oai:socialhistoryservices.org:10622/ARCH03414",
+        "datestamp": "2020-06-22T00:00:00Z",
+        "setSpec": {
+            "0": "iish",
+            "1": "iish.archieven"
+        },
+        "fromCache": true
+    },
+    "metadata": {
+        "marc:record": {
+            "marc:leader": {
+                "$text": "00000npcaa2200000 u 4500"
+            },
+            "marc:controlfield": [
+                {
+                    "$text": "10622/ARCH03414",
+                    "@tag": "001"
+                },
+                {
+                    "$text": "NL-AmISG",
+                    "@tag": "003"
+                },
+                {
+                    "$text": "220912i19681970nl                  dut d",
+                    "@tag": "008"
+                }
+            ],
+            "marc:datafield": [
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "AmISG",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "dut",
+                            "@code": "b"
+                        },
+                        {
+                            "$text": "AmISG",
+                            "@code": "c"
+                        },
+                        {
+                            "$text": "International Standard for Archival Description - General",
+                            "@code": "e"
+                        }
+                    ],
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "040"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "dut",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "041"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "Federatie Studentenwerkgroepen Homoseksualiteit (FSWH),",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "creator.",
+                            "@code": "e"
+                        }
+                    ],
+                    "@ind1": "2",
+                    "@ind2": "",
+                    "@tag": "110"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "Archief Federatie Studentenwerkgroepen Homoseksualiteit (FSWH)",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "1968-1970",
+                            "@code": "f"
+                        }
+                    ],
+                    "@ind1": "1",
+                    "@ind2": "0",
+                    "@tag": "245"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "1.14 Meters",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "300"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "351"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "Beperkt\n\nVoor raadpleging is toestemming nodig van het IHLIA.",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "506"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "Archief Federatie Studentenwerkgroepen Homoseksualiteit (FSWH), inventory number ..., International Institute of Social History, Amsterdam.",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "524"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "In 1968 verenigden lokale studentenwerkgroepen homoseksualiteit in Nederland zich in de Federatie Studentenwerkgroepen Homoseksualiteit. De FSWH had vooral een overkoepelende rol voor het organiseren van landelijke activiteiten. Haar belangrijkste wapenfeit: de organisatie van de demonstratie tegen artikel 248-bis op 21 januari 1969, de eerste demonstratie voor homorechten in Nederland. De FSWH bracht een kwartaalblad onder de naam Proefding uit. De federatie werd in 1970 opgeheven.",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "545"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "Dutch.",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "546"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "Sexualities/LGBT movements",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "ingest",
+                            "@code": "2"
+                        }
+                    ],
+                    "@ind1": "",
+                    "@ind2": "7",
+                    "@tag": "650"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "Youth and students movements",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "ingest",
+                            "@code": "2"
+                        }
+                    ],
+                    "@ind1": "",
+                    "@ind2": "7",
+                    "@tag": "650"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "Netherlands",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "ingest",
+                            "@code": "2"
+                        }
+                    ],
+                    "@ind1": "",
+                    "@ind2": "7",
+                    "@tag": "651"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "Archival material",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "ingest",
+                            "@code": "2"
+                        }
+                    ],
+                    "@ind1": "",
+                    "@ind2": "7",
+                    "@tag": "655"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "International Institute of Social History",
+                            "@code": "a"
+                        },
+                        {
+                            "$text": "IISG (Collectie IHLIA)",
+                            "@code": "b"
+                        },
+                        {
+                            "$text": "ARCH03414",
+                            "@code": "j"
+                        }
+                    ],
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "852"
+                },
+                {
+                    "marc:subfield": [
+                        {
+                            "$text": "text/xml",
+                            "@code": "q"
+                        },
+                        {
+                            "$text": "https://hdl.handle.net/10622/ARCH03414?locatt=view:ead",
+                            "@code": "u"
+                        }
+                    ],
+                    "@ind1": "4",
+                    "@ind2": "",
+                    "@tag": "856"
+                },
+                {
+                    "marc:subfield": {
+                        "$text": "10622/ARCH03414",
+                        "@code": "a"
+                    },
+                    "@ind1": "",
+                    "@ind2": "",
+                    "@tag": "902"
+                }
+            ],
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xmlns:marc": "http://www.loc.gov/MARC21/slim",
+            "@xsi:schemaLocation": "http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+        }
+    },
+    "_identifier": [
+        "oai:socialhistoryservices.org:10622",
+        "ARCH03414"
+    ],
+    "_entity": {
+        "termType": "NamedNode",
+        "value": "https://iisg.amsterdam/id/collection/ARCH03414"
+    }
+}

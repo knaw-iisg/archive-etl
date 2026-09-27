@@ -1,0 +1,41 @@
+"""Dispatch table: MARC datafield ``@tag`` -> list of handler functions."""
+
+from . import (
+    f041,
+    f100,
+    f245,
+    f300,
+    f351,
+    f506,
+    f520,
+    f524,
+    f530,
+    f535,
+    f544,
+    f545,
+    f583,
+    f650,
+    f651,
+    f852,
+    f902,
+)
+
+DATAFIELD_HANDLERS = {
+    "041": [f041.process],
+    "100": [f100.process],
+    "245": [f245.process],
+    "300": [f300.process],
+    "351": [f351.process],
+    "506": [f506.process],
+    "520": [f520.process],
+    "524": [f524.process],
+    "530": [f530.process],
+    "535": [f535.process],
+    "544": [f544.process],
+    "545": [f545.process],
+    "583": [f583.process],
+    "650": [f650.process],
+    "651": [f651.process],
+    "852": [f852.process],
+    "902": [f902.process],
+}

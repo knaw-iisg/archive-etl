@@ -1,0 +1,301 @@
+{
+  "header": {
+    "identifier": "oai:socialhistoryservices.org:10622/ARCH00022",
+    "datestamp": "2021-04-19T00:00:00Z",
+    "setSpec": {
+      "0": "iish",
+      "1": "iish.archieven"
+    },
+    "fromCache": true
+  },
+  "metadata": {
+    "marc:record": {
+      "marc:leader": {
+        "$text": "00000npcaa2200000 u 4500"
+      },
+      "marc:controlfield": [
+        {
+          "$text": "10622/ARCH00022",
+          "@tag": "001"
+        },
+        {
+          "$text": "NL-AmISG",
+          "@tag": "003"
+        },
+        {
+          "$text": "220912i1965    nl                  ger d",
+          "@tag": "008"
+        }
+      ],
+      "marc:datafield": [
+        {
+          "marc:subfield": [
+            {
+              "$text": "AmISG",
+              "@code": "a"
+            },
+            {
+              "$text": "eng",
+              "@code": "b"
+            },
+            {
+              "$text": "AmISG",
+              "@code": "c"
+            },
+            {
+              "$text": "International Standard for Archival Description - General",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "040"
+        },
+        {
+          "marc:subfield": {
+            "$text": "ger",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "041"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Barnikol, Ernst,",
+              "@code": "a"
+            },
+            {
+              "$text": "creator.",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "100"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Ernst Barnikol Papers",
+              "@code": "a"
+            },
+            {
+              "$text": "ca. 1965",
+              "@code": "f"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "0",
+          "@tag": "245"
+        },
+        {
+          "marc:subfield": {
+            "$text": "0.75 Meters",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "300"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Not restricted.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "506"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Manuscript of his `Bruno Bauer. Darstellung und Quellen' [1965]; notes and some correspondence relating to the manuscript.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "520"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Ernst Barnikol Papers , inventory number ..., International Institute of Social History, Amsterdam.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "524"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Partly published in: Ernst Barnikol, Bruno Bauer. Studien und Materialien. Aus dem Nachlass ausgewählt und zusammengestellt von Peter Reimer und Hans Martin Sass. Assen, 1972.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "530"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Documents received by the IISH from Eugenie Barnikol in  1973 , see Annual Report IISH 1973, p. 32.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "541"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Barnikol, Ernst; born in Wuppertal, Germany 1892, died in Halle, German Democratic Republic 1968; theologian; studied philosophy and theology in Marburg; private lecturer of the New Testament at the university of Bonn in 1921; appointed professor in church history and history of early Christianity in Kiel in 1928; in the same year awarded an honorary professorship in Bonn; taught the same subjects at the university of Halle-Wittenberg from 1929 where he lived the rest of his life; his publications include the series `Christentum und Sozialismus' 1929, in which he compared Christianity with socialism.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "545"
+        },
+        {
+          "marc:subfield": {
+            "$text": "German.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Bauer, Bruno.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Socialist and social democrat parties/Socialist International",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Religious movements/Anti-clericalism/Atheism",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Germany",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "651"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Archival material",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "655"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "International Institute of Social History",
+              "@code": "a"
+            },
+            {
+              "$text": "International Institute of Social History",
+              "@code": "b"
+            },
+            {
+              "$text": "ARCH00022",
+              "@code": "j"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "852"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "text/xml",
+              "@code": "q"
+            },
+            {
+              "$text": "https://hdl.handle.net/10622/ARCH00022?locatt=view:ead",
+              "@code": "u"
+            }
+          ],
+          "@ind1": "4",
+          "@ind2": "",
+          "@tag": "856"
+        },
+        {
+          "marc:subfield": {
+            "$text": "10622/ARCH00022",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "902"
+        }
+      ],
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:marc": "http://www.loc.gov/MARC21/slim",
+      "@xsi:schemaLocation": "http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    }
+  },
+  "_identifier": [
+    "oai:socialhistoryservices.org:10622",
+    "ARCH00022"
+  ],
+  "_archive": {
+    "termType": "NamedNode",
+    "value": "https://iisg.amsterdam/id/collection/ARCH00022"
+  }
+}

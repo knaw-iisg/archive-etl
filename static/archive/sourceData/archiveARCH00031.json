@@ -1,0 +1,476 @@
+{
+  "header": {
+    "identifier": "oai:socialhistoryservices.org:10622/ARCH00031",
+    "datestamp": "2021-03-10T00:00:00Z",
+    "setSpec": {
+      "0": "iish",
+      "1": "iish.archieven"
+    },
+    "fromCache": true
+  },
+  "metadata": {
+    "marc:record": {
+      "marc:leader": {
+        "$text": "00000npcaa2200000 u 4500"
+      },
+      "marc:controlfield": [
+        {
+          "$text": "10622/ARCH00031",
+          "@tag": "001"
+        },
+        {
+          "$text": "NL-AmISG",
+          "@tag": "003"
+        },
+        {
+          "$text": "220912i18411886nl                  ger d",
+          "@tag": "008"
+        }
+      ],
+      "marc:datafield": [
+        {
+          "marc:subfield": [
+            {
+              "$text": "AmISG",
+              "@code": "a"
+            },
+            {
+              "$text": "ger",
+              "@code": "b"
+            },
+            {
+              "$text": "AmISG",
+              "@code": "c"
+            },
+            {
+              "$text": "International Standard for Archival Description - General",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "040"
+        },
+        {
+          "marc:subfield": {
+            "$text": "ger",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "041"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Becker, Johann Philipp,",
+              "@code": "a"
+            },
+            {
+              "$text": "creator.",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "100"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Johann Philipp Becker Papers",
+              "@code": "a"
+            },
+            {
+              "$text": "(1841-) 1848-1886",
+              "@code": "f"
+            },
+            {
+              "$text": "1848-1886",
+              "@code": "g"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "0",
+          "@tag": "245"
+        },
+        {
+          "marc:subfield": {
+            "$text": "1.12 Meters",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "300"
+        },
+        {
+          "marc:subfield": {
+            "$text": "A first inventory -made in the 1960s- has been updated and edited by Ursula Balzer in 2008; a number of documents which were overlooked originally have been included in it (see inv. nos. add. 1-65) and the packaging has been renewed.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "351"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Not restricted.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "506"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Letters from Michail Bakunin 1868-1870, Sophie von Hatzfeldt 1864-1865, Georg Herwegh 1865-1871, Hermann Jung 1868-1873, Ferdinand Lassalle 1863-1864, Wilhelm Liebknecht 1866-1881 and n.d., Julius Motteler 1877-1884, Theodor Remy 1861-1875, Friedrich A. Sorge 1867-1884, Paul Stumpf 1866-1882 and others; some original letters by J.P. Becker; manuscripts; handwritten statutes and rules, proceedings and resolutions; deeds; manuscripts by others; some printed material.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "520"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Johann Philipp Becker Papers, inventory number ..., International Institute of Social History, Amsterdam.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "524"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Complete papers digitized as part of the Centrale Project 2012-2016.\n\n29 security microfilms publication by Fr. Ebert Stiftung 1979.\n\nPartly published in:  Documents relatifs aux militants Belges de L'Association Internationale des Travailleurs. Correspondance 1865-1872.  Textes réunis, établis et annotés par Daisy Eveline Devreese. Louvain/Bruxelles, 1986; Wilhelm Liebknecht,  Briefwechsel mit deutschen Sozialdemokraten . Band 1.  1862-1878.  Hrsg. und bearbeitet von Georg Eckert. Assen, 1973. Band 2.  1878-1884 . Hrsg. von Götz Langkau unter Mitwirkung von Ursula Balzer und Jan Gielkens. Frankfurt/M. [etc.], 1988;  Zeitgenossen von Marx und Engels. Ausgewählte Briefe aus den Jahren 1844 bis 1852.  Hrsg. und annotiert von Kurt Koszyk und Karl Obermann. Assen, 1975.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "530"
+        },
+        {
+          "marc:subfield": {
+            "$text": "For reasons of protection of the original documents, only the scans are available for use.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "540"
+        },
+        {
+          "marc:subfield": {
+            "$text": "These papers were originally part of the historical party-archives of the SPD. The IISH acquired this collection from the SPD in exile in 1938 with financial support of the Centrale Arbeiders-Verzekerings- en Deposito-Bank (the Centrale). The collection, including the papers of Karl Marx, Friedrich Engels, August Bebel, Eduard Bernstein, and Wilhelm Liebknecht, was mentioned in the Annual Report of 1938 (p. 37-42). The contract was signed 19 May 1938.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "541"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Becker, Johann Philipp. Born in Frankenthal, Pfalz 1809, died in Geneva 1886; broom maker, later cigar manufacturer and journalist; fled for political reasons to Switzerland in 1838; became a Swiss citizen and participated in the Sonderbund war; was in command of a unit of a revolutionary German army in Southern Germany 1848-1849; member of the Allgemeine Deutsche Arbeiterverein (ADAV) from 1863; participated in the founding of the International Working Men's Association (IWMA) in 1864 and became head of the section for the German speaking countries; one of the founders of the German Sozialdemokratische Arbeiterpartei (SDAP) in 1869; editor of  Der Vorbote  1866-1871 and of  Le Précurseur  1877-1882.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "545"
+        },
+        {
+          "marc:subfield": {
+            "$text": "German.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Processing Information: Inventory by Ursula Balzer in 2008.\n\nRevised for purposes of digitization by Eva van Oene in 2015.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "583"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Bakunin, Michail Aleksandrovič.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Frey, Joseph Heinrich.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Hatzfeldt, Sophie von.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Lassalle, Ferdinand.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Motteler, Julius.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Sorge, Friedrich A.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "International Working Men's Association (IWMA).",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "2",
+          "@ind2": "7",
+          "@tag": "610"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Communist movements and parties",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Anarchist movements",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Socialist and social democrat parties/Socialist International",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Capitalism/Anti-capitalist movements/Anti-globalization movements",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Germany",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "651"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Archival material",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "655"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "International Institute of Social History",
+              "@code": "a"
+            },
+            {
+              "$text": "International Institute of Social History",
+              "@code": "b"
+            },
+            {
+              "$text": "ARCH00031",
+              "@code": "j"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "852"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "text/xml",
+              "@code": "q"
+            },
+            {
+              "$text": "https://hdl.handle.net/10622/ARCH00031?locatt=view:ead",
+              "@code": "u"
+            }
+          ],
+          "@ind1": "4",
+          "@ind2": "",
+          "@tag": "856"
+        },
+        {
+          "marc:subfield": {
+            "$text": "10622/ARCH00031",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "902"
+        }
+      ],
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:marc": "http://www.loc.gov/MARC21/slim",
+      "@xsi:schemaLocation": "http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    }
+  },
+  "_identifier": [
+    "oai:socialhistoryservices.org:10622",
+    "ARCH00031"
+  ],
+  "_archive": {
+    "termType": "NamedNode",
+    "value": "https://iisg.amsterdam/id/collection/ARCH00031"
+  }
+}

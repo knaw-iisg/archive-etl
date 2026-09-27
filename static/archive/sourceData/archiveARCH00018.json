@@ -1,0 +1,672 @@
+{
+  "header": {
+    "identifier": "oai:socialhistoryservices.org:10622/ARCH00018",
+    "datestamp": "2022-06-27T00:00:00Z",
+    "setSpec": {
+      "0": "iish",
+      "1": "iish.archieven"
+    },
+    "fromCache": true
+  },
+  "metadata": {
+    "marc:record": {
+      "marc:leader": {
+        "$text": "00000npcaa2200000 u 4500"
+      },
+      "marc:controlfield": [
+        {
+          "$text": "10622/ARCH00018",
+          "@tag": "001"
+        },
+        {
+          "$text": "NL-AmISG",
+          "@tag": "003"
+        },
+        {
+          "$text": "220907i18231935nl                  rus d",
+          "@tag": "008"
+        }
+      ],
+      "marc:datafield": [
+        {
+          "marc:subfield": [
+            {
+              "$text": "AmISG",
+              "@code": "a"
+            },
+            {
+              "$text": "fre",
+              "@code": "b"
+            },
+            {
+              "$text": "AmISG",
+              "@code": "c"
+            },
+            {
+              "$text": "International Standard for Archival Description - General",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "040"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "rus",
+              "@code": "a"
+            },
+            {
+              "$text": "ita",
+              "@code": "a"
+            },
+            {
+              "$text": "fre",
+              "@code": "a"
+            },
+            {
+              "$text": "ger",
+              "@code": "a"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "041"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Bakunin, Michail Aleksandrovič,",
+              "@code": "a"
+            },
+            {
+              "$text": "creator.",
+              "@code": "e"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "100"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Michail Aleksandrovič Bakunin Papers",
+              "@code": "a"
+            },
+            {
+              "$text": "(1823-) 1860-1876 (-1935)",
+              "@code": "f"
+            },
+            {
+              "$text": "1860-1876",
+              "@code": "g"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "0",
+          "@tag": "245"
+        },
+        {
+          "marc:subfield": {
+            "$text": "1 Meters",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "300"
+        },
+        {
+          "marc:subfield": {
+            "$text": "L'IIHS acheta la vaste collection sur l'anarchisme rassemblées par Max Nettlau, dont les archives Bakunin faisaient partie, en 1935. Les ensembles tels qu'ils étaient constitués au moment de l'achat ont servi, autant que possible, de points de départ du classement présent. En effet, ces ensembles, formés après la mort de Bakunin, furent façonnés par les activités de ses contemporains et de ses amis politiques qui collectionnaient les documents de Bakunin ou en rapport avec sa vie.\n\nC'est pourquoi les lettres écrites par Bakunin à ses correspondants qui, à parler strictement, ne font pas partie de ses archives personnelles, n'ont pas été extraites des ces ensembles. On y trouve également des notes manuscrites de toute nature écrites par des tiers, en particulier par Max Nettlau. Ces notes ont été laissées ou replacées, autant que possible, auprès des documents auxquels elles se rapportent.\n\nLa première partie de l' inventaire contient les manuscrits de Bakunin, quelques pièces sur ses activités politiques et culturelles et les lettres qui lui furent adressées. On y trouve aussi quelques documents imprimés, qu'ils aient appartenu à Bakunin ou qu'ils aient pu lui appartenir d'après leurs dates.\n\nBien que Bakunin ait beaucoup écrit, il n'a jamais terminé un seul travail de son vivant. Plusieurs œuvres furent publiées ultérieurement sous des titres différents, et en plus,Bakunin rédigeait souvent plusieurs variantes d'une même oeuvre.\n\nEn ce qui concerne les manuscrits des écrits les plus connus comme 'L'Empire knouto-germanique' et 'La Théologie politique de Mazzini et l'Internationale', il fut décidé de ne pas détailler davantage les descriptions des fragments et des variantes. Les parties du manuscrit sont disposées, autant que possible, selon la pagination finale de l'oeuvre, mais en tenant compte également de la chronologie. Afin d'aider à la compréhension du processus de rédaction des textes, des photocopies et des copies dactylographiées des variantes du manuscrit de 'L'Empire knouto-germanique' ont été ajoutées dans les archives.\n\nLa partie intitulée ‘Activités politiques et culturelles' est divisée d'après un classement thématico-chronologique suivant les des organisations et groupements.\n\nLa partie 'Collection de documents relatifs à Bakunin' regroupe les documents collectionnés ultérieurement et qui, selon une interprétation stricte des principes archivistiques, ne font pas partie des archives personnelles de Bakunin. On y trouve des originaux et des copies manuscrites, faites par Max Nettlau, de lettres écrites par Bakunin à ses correspondants, des documents produits pour la publication posthume de ses oeuvres et des documents imprimés portant sur lui et sa famille.\n\nLes documents inclus dans le présente inventaire constituaient la base pour les éditions des oeuvres complètes quand le Département Bakunin de l'IIHS commencait son travail en 1958. Un grand nombre de documents additionnels découvrits pendant ce projet d'édition ont été rassemblés, le plus souvent sous forme de photocopies ou de microfilms, ne sont pas inclus. Le présent inventaire ne tient pas compte de ces documents dont les originaux ne se trouvent pas à l'IIHS.\n\nPour l'étude de Bakunin, il serait judicieux de consulter également d'autres fonds et collections de l'IIHS, en particulier ceux de Max Nettlau contenant, entre autres, le manuscrit de sa biographie de Bakunin. En outre, certains documents appartenant clairement aux archives de Max Nettlau ont été extraits des archives de Bakunin pour retrouver leur fonds d'origine.\n\nLa langue de l'inventaire est le français, puisqu'il était utilisé pour les anciennes descriptions et pour la majorité des documents. De nombreux collaborateurs de l'IIHS ont travaillé à l'élaboration de cet inventaire tout au long du projet. Au cours de la dernière phase, l'essentiel du travail fut accompli par Kasja Weenink et Jaap Haag.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "351"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Not restricted.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "506"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Collection consisting of part of his papers and other original or copied documents (mainly acquired through Max Nettlau in 1935), and of microfilms of documents kept in Bologna, Dresden, Florence, St. Petersburg, Lyon, Marseilles, Neuchâtel, Paris, Rome, and elsewhere (mainly acquired for the IISH series `Archives Bakounine' as of 1959). The papers, left with his widow Antonia Kwiatkowska (Квятковская Антонина) on his death, represent mainly his political activities; the private part was destroyed in Naples during the Second World War.\n\nMichail Bakunin (Бакунин Михаил) papers: some correspondence 1868-1869, 1872; manuscripts or parts of manuscripts of `L'Empire knouto-germanique et la révolution sociale' (partly photocopies), `Écrit contre Marx', `Réponse d'un international à Mazzini' and other writings; extracts and notes [1865], 1868-1875; documents, including manuscripts and correspondence relating to the Ligue de la Paix et de la Liberté, the International Working Men's Association (IWMA), Freemasonry, the Fraternité internationale, the Alliance internationale de la Démocratie socialiste, the Alliance de la Démocratie socialiste and projected clandestine organizations 1866-1872; articles, pamphlets and leaflets by Bakunin [1863] 1866-1872 and other printed material 1860-1874.\n\nCollection: letters by Bakunin (Бакунин), including copies made by Nettlau, to Johann Philipp Becker, Celso Ceretti, Giuseppe Fanelli, James Guillaume, Anselmo Lorenzo, Tomás González Morago, Walerian Mroczkowski, Elisée Reclus, Adolf Reichel, Arnold Ruge, Alfred Talandier, Gustav Vogt and others (1843-) 1867-1875; copies of the `Carnets' and other writings by Bakunin (Бакунин) made by Guillaume, Nettlau and others; manuscripts and proofs of translations of some publications by Bakunin (Бакунин); correspondence by Guillaume and Nettlau concerning Bakunin (Бакунин); manuscripts, notes and proofs of publications by Guillaume, Nettlau and others concerning Bakunin (Бакунин); pamphlets, copies of periodicals and other printed material concerning Bakunin (Бакунин) 1876-1932.\n\nMicrofilms of the Bakunin (Бакунин) family archives containing early correspondence with members of the family and the so-called Stankevič (Станкевич Николай Владимирович) circle (among them Vissarion G. Belinskij) (Белинский Виссарион Григорьевич) 1823-1840; scattered letters and other documents 1840-1848; papers of Natalija A. Herzen (Герцен Наталья Александровна) partly relating to Sergej G. Nečaev (Нечаев Сергей Геннадиевич), Marija Reichel (Рейхель Мария Каспаровна), Nikolaj Ogarev (Огарев Николай Платонович) and Petr Lavrov (Лавров Петр Лаврович) 1860-1911; correspondence with Aleksandr I. Gercen (Герцен Александр Иванович) and Nikolaj P. Ogarev (Огарев Николай Платонович) 1860-1874; part of the papers of J. Guillaume relating to the IWMA, mainly in the Swiss Jura and the preparation of Guillaume's book on `L'Internationale' 1903-1910; manuscripts by Bakunin (Бакунин) at the Bibliothèque Nationale, Paris 1869-1871; part of the papers of the Committee investigating the activity of the Alliance de la Démocratie socialiste at the Hague Congress of the IWMA, including the report by Nikolaj I (Николай I). Utin (Утин Николай Исаакович) 1872; Saxon police archives relating to the Dresden insurrection in 1849; French departmental and police archives, mainly from Lyon, Marseilles and Paris, relating to French sections of the IWMA and the aborted insurrection in Lyon, 1870-1878; Bologna police archives relating to the development of the IWMA in Italy and the aborted insurrection in Bologna 1873-1874.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "520"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Michail Aleksandrovič Bakunin Papers , inventory number ..., International Institute of Social History, Amsterdam.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "524"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Complete papers digitized as a part of the Centrale Project 2012-2016.\n\nMicrofilms.\n\nPartly published in: Archives Bakounine. Textes établis et annotés par Arthur Lehning. 7 Vol. Leiden, 1961-1981; published also in: Bakounine. Oeuvres complète. CD-Rom Amsterdam, 2000.",
+            "@code": "a"
+          },
+          "@ind1": "2",
+          "@ind2": "",
+          "@tag": "530"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Originals of the microfilms, microfiches and photocopies in various institutions; for specification see preliminary list at the archives department of the IISH.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "535"
+        },
+        {
+          "marc:subfield": {
+            "$text": "For reasons of protection of the original documents, only the scans are available for use.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "540"
+        },
+        {
+          "marc:subfield": {
+            "$text": "The IISH acquired this collection as part of the Nettlau-collection in 1935 with financial support of the Centrale Arbeiders-Verzekerings- en Deposito-Bank (the Centrale). The collection was mentioned in the Annual Report of 1948 (p.33). The contract was signed 1935.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "541"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Michail Aleksandrovič Bakunin (Бакунин Михаил Александрович): Born in Prjamuchino, Tver', Russia 1814, died in Berne, Switzerland 1876; studied philosophy in Moscow and Berlin; involved in revolutionary activity in Paris, Prague, Dresden 1848-1849; arrested, imprisoned and then exiled to Siberia; escaped via the USA to London in 1861; involved in revolutionary activity in Slav emigré circles, then active in Sweden in connection with the Polish insurrection in 1863; organized secret societies in Italy in 1864, and in Switzerland in 1868; member of the International Working Men's Association (IWMA) from 1868, in opposition to the General Council (and Karl Marx) from 1869 on; made efforts at revolutionary organization in Russia, Spain and Italy1868-1874; present at the attempted insurrection in Lyon in 1870 and Bologna in 1874; one of the founders of the anarchist movement.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "545"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Russian.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Italian.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": {
+            "$text": "French.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": {
+            "$text": "German.",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "546"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Bakunin a laissé à la postérité une oeuvre qui constitue, quant à sa diversité, le reflet de sa vie turbulente. Il a entretenu des relations épistolaires avec des centaines de personnes, il a écrit des articles, des brochures et des lettres ouvertes. Il a rédigé d'innombrables notes sur des ouvrages historiques et philosophiques. Il a conçu des programmes pour des organisations révolutionnaires, ainsi que des codes secrets. Il a traduit des textes et il a tenu des discours.\n\nAu cours de sa vie et après sa mort, une partie de son oeuvre a été détruite. Ce qui en reste est dispersé dans plus de quarante archives en Europe et dans le reste du monde, sous forme de manuscrits originaux, de copies et de publications.\n\nLa correspondance de Bakunin (Бакунин) avec sa famille en Russie a été conservée dans les archives familiales. La police politique transcriait la correspondance de Bakunin (Бакунин) en altérant parfois son style. A partir de la fin des années 1860, les amis politiques de Bakunin (Бакунин), James Guillaume, Nikolaj Žukovskij (Жуковский Николай Иванович) et Carlo Gambuzzi notamment, ont entrepris le recueil de ses lettres et de ses manuscrits. Antonia Bakunin (Бакунина (Квятковская) Антонина) conservait les lettres et les écrits de son mari. Plus tard, Errico Malatesta, Michail Sažin (Сажин Михаил Петрович), Petr Kropotkin (Кропоткин Петр Алексеевич), Elisée Reclus et Max Nettlau se sont mis à collectionner les manuscrits de Bakunin qui se trouvent aujourd'hui en partie à l'IIHS, en partie à la Bibliothèque Nationale à Paris.\n\nL'article de Jaap Kloosterman   'Notes sur les papiers de Michel Bakounine à l'IIHS d'Amsterdam' (en PDF - 133 Kb), disponible à la salle de lecture de l'IIHS, décrit les vicissitudes des archives de Bakunin avant qu'elles n'aboutissent à l'IIHS.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "561"
+        },
+        {
+          "marc:subfield": {
+            "$text": "Processing Information: Inventory made in 2003 by Kasja Weenink and Jaap Haag.",
+            "@code": "a"
+          },
+          "@ind1": "1",
+          "@ind2": "",
+          "@tag": "583"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Becker, Johan Philipp.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Ceretti, Celso.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Fanelli, Giuseppe.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Guillaume, James.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Lorenzo, Anselmo.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Marx, Karl.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Morago, Tomás González.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Mroczkowski, Walerian.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Nettlau, Max.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Reclus, Elisée.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Reichel, Adolf.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Ruge, Arnold.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Talandier, Alfred.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Vogt, Gustav.",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "1",
+          "@ind2": "7",
+          "@tag": "600"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "International Working Men's Association (IWMA).",
+              "@code": "a"
+            },
+            {
+              "$text": "subject",
+              "@code": "4"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "2",
+          "@ind2": "7",
+          "@tag": "610"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Anarchist movements",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Communist movements and parties",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "650"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "USSR (former)",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "651"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Italy",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "651"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "Archival material",
+              "@code": "a"
+            },
+            {
+              "$text": "ingest",
+              "@code": "2"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "7",
+          "@tag": "655"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "International Institute of Social History",
+              "@code": "a"
+            },
+            {
+              "$text": "International Institute of Social History",
+              "@code": "b"
+            },
+            {
+              "$text": "ARCH00018",
+              "@code": "j"
+            }
+          ],
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "852"
+        },
+        {
+          "marc:subfield": [
+            {
+              "$text": "text/xml",
+              "@code": "q"
+            },
+            {
+              "$text": "https://hdl.handle.net/10622/ARCH00018?locatt=view:ead",
+              "@code": "u"
+            }
+          ],
+          "@ind1": "4",
+          "@ind2": "",
+          "@tag": "856"
+        },
+        {
+          "marc:subfield": {
+            "$text": "10622/ARCH00018",
+            "@code": "a"
+          },
+          "@ind1": "",
+          "@ind2": "",
+          "@tag": "902"
+        }
+      ],
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:marc": "http://www.loc.gov/MARC21/slim",
+      "@xsi:schemaLocation": "http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    }
+  },
+  "_identifier": [
+    "oai:socialhistoryservices.org:10622",
+    "ARCH00018"
+  ],
+  "_archive": {
+    "termType": "NamedNode",
+    "value": "https://iisg.amsterdam/id/collection/ARCH00018"
+  }
+}
