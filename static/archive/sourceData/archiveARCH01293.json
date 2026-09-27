@@ -10,9 +10,7 @@
   },
   "metadata": {
     "marc:record": {
-      "marc:leader": {
-        "$text": "00000npcaa2200000 u 4500"
-      },
+      "marc:leader": "00000npcaa2200000 u 4500",
       "marc:controlfield": [
         {
           "$text": "10622/ARCH01293",
@@ -297,5 +295,5 @@
       "@xmlns:marc": "http://www.loc.gov/MARC21/slim",
       "@xsi:schemaLocation": "http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
     }
-  } 
+  }
 }

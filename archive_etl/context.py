@@ -27,6 +27,26 @@ def get_text(subfield: dict) -> str | None:
     return str(text)
 
 
+def text_content(value) -> str | None:
+    """Get an XML element's text content from either xmltodict shape: a
+    dict with ``"$text"`` (when the element has attributes) or a plain
+    string (when it has none). MARC's ``<leader>`` element never carries
+    attributes, so it collapses to a bare string rather than
+    ``{"$text": ...}`` -- unlike controlfield/datafield/subfield, which
+    always have `@tag`/`@code` and so are always dicts. Confirmed the hard
+    way: this repo's own static fixtures (inherited pre-converted, not
+    produced by this repo's own harvest.py) always used the dict shape,
+    which silently hid this for every leader-derived triple until checked
+    against real harvest.py output.
+    """
+    if isinstance(value, dict):
+        text = value.get("$text")
+        return str(text) if text is not None else None
+    if isinstance(value, str):
+        return value
+    return None
+
+
 def subfield_text(datafield: dict, index: int = 0) -> str | None:
     """The text of the ``index``-th subfield of a datafield, or ``None`` if
     there aren't that many."""

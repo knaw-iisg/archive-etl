@@ -5,7 +5,7 @@ from __future__ import annotations
 from rdflib import RDF, Graph, Literal, URIRef
 
 from . import nde_ap
-from .context import as_array, mint_id
+from .context import as_array, mint_id, text_content
 from .datafields import DATAFIELD_HANDLERS
 from .leader import types_from_leader
 from .prefixes import COLLECTION, MARC
@@ -32,19 +32,17 @@ def process_record(record: dict, g: Graph) -> URIRef | None:
 
     marc_record = record.get("metadata", {}).get("marc:record", {})
 
-    leader = marc_record.get("marc:leader", {})
-    leader_text = leader.get("$text") if isinstance(leader, dict) else None
+    leader_text = text_content(marc_record.get("marc:leader"))
     if leader_text:
-        leader_text = str(leader_text)
         for rdf_type in types_from_leader(leader_text):
             g.add((item, RDF.type, rdf_type))
         g.add((item, MARC["leader---"], Literal(leader_text)))
 
     for controlfield in as_array(marc_record.get("marc:controlfield")):
         tag = controlfield.get("@tag")
-        text = controlfield.get("$text")
+        text = text_content(controlfield)
         if tag and text is not None:
-            g.add((item, MARC[f"{tag}---"], Literal(str(text))))
+            g.add((item, MARC[f"{tag}---"], Literal(text)))
 
     for datafield in as_array(marc_record.get("marc:datafield")):
         tag = datafield.get("@tag")
