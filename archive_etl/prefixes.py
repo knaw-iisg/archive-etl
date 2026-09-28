@@ -10,7 +10,7 @@ MARC = Namespace(BASE + "marc/")
 IISGV = Namespace(BASE + "vocab/")
 DATASET = Namespace(ID + "dataset/")
 
-SDO = Namespace("http://schema.org/")
+SDO = Namespace("https://schema.org/")
 RICO = Namespace("https://www.ica.org/standards/RiC/ontology#")
 LEXVO_ISO639_3 = Namespace("http://lexvo.org/id/iso639-3/")
 LEXVO_ISO3166 = Namespace("http://www.lexvo.org/page/iso3166/")

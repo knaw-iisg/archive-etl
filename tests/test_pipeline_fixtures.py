@@ -12,7 +12,7 @@ from archive_etl.fixtures import load_fixture
 from archive_etl.pipeline import process_record
 
 FIXTURES_DIR = Path(__file__).resolve().parent.parent / "static" / "archive" / "sourceData"
-SDO = Namespace("http://schema.org/")
+SDO = Namespace("https://schema.org/")
 IISGV = Namespace("https://iisg.amsterdam/vocab/")
 RICO = Namespace("https://www.ica.org/standards/RiC/ontology#")
 

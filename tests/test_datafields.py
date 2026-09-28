@@ -8,7 +8,7 @@ from rdflib.namespace import Namespace
 
 from archive_etl.datafields import f506, f583, f651, f852, f902
 
-SDO = Namespace("http://schema.org/")
+SDO = Namespace("https://schema.org/")
 IISGV = Namespace("https://iisg.amsterdam/vocab/")
 ISO3166 = Namespace("http://www.lexvo.org/page/iso3166/")
 
